@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Status-Completed-00b894?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" />
 
-# 🥒 Pickle Rick - Complete Walkthrough
+#  Pickle Rick - Complete Walkthrough
 
 > *"Wubbalubbadubdub!"* — Rick Sanchez
 
@@ -161,11 +161,11 @@ sudo bash
 
 <div align="center">
 
-| 🏅 Ingredient | 📝 Name | 📍 Location | ✅ Status |
-|:-----------:|:-------|:------------|:---------:|
-| 🥇 **1st** | Mr. Meeseeks | Web directory / Source code | ✅ Found |
-| 🥈 **2nd** | 1 Jerry Tear | `/home/rick/second ingredients` | ✅ Found |
-| 🥉 **3rd** | Fleeb Juice | `/root/` | ✅ Found |
+| 🏅 Ingredient |📝 Name | 📍 Location | ✅ Status |
+|:----------:|:-------|:------------|:---------:|
+| 🥇 **1st** | ****** | Web directory / Source code | ✅ Found |
+| 🥈 **2nd** | ****** | `/home/rick/second ingredients` | ✅ Found |
+| 🥉 **3rd** | ****** | `/root/` | ✅ Found |
 
 </div>
 
@@ -200,9 +200,6 @@ sudo bash
 **Walkthrough By:**
 
 ### 👤 Swoyon
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212529?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 </div>
 
